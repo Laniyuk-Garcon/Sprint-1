@@ -1,2 +1,4 @@
 # Sprint-1
-Branch Pull Merge Challange
+Branch Pull Merge Challenge
+
+Learning to push and pull
